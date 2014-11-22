@@ -1,0 +1,28 @@
+/**/
+/* index.css */
+/* by Tim :D */
+/**/
+
+body
+{
+	background-color: #F6F5F7;
+	background-position: center;
+	text-align: center;
+}
+
+.upper-event
+{
+	padding: 20px 15px;
+	text-align: right;
+}
+
+.main-event 
+{
+	text-align: left;
+	padding: 120px 15px;
+}
+
+.bs-example
+{
+    	margin: 0px;
+}
